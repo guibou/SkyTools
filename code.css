@@ -1,0 +1,20 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+#content
+{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+
+    background-repeat: no-repeat;
+    background-position: center;
+
+    font-size: 50vh;
+    text-align: center;
+    vertical-align: top;
+    line-height: 100vh;
+}
