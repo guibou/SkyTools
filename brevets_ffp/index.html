@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Brevet B/BPA/C</title>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="https://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div data-role="tabs" id="tabs">
+      <div data-role="navbar">
+	<ul>
+	  <li><a href="#one" data-ajax="false">Presentation</a></li>
+	  <li><a href="#two" data-ajax="false">Brevet B/BPA</a></li>
+	  <li><a href="#three" data-ajax="false">Brevet C</a></li>
+	</ul>
+      </div>
+
+      <div id="one" class="ui-content">
+	<h1>Présentation</h1>
+	<p>
+	  Ces questions sont extraites du livre de préparation du brevet C de la FFP et du manuel du jeune parachutiste. N'oubliez pas le bla bla habituel et en cas de doute demandez à un moniteur compétent. En effet, j'ai pu introduire des erreurs lors de la recopie des questions / réponses.
+	  </p>
+
+	  <p>De plus, ce questionnaire date de l'avant BPA / brevet D et donc certaines questions sont rendues invalides / inutiles pour les brevets actuels</p>
+
+	  <p>Pour toute remarque : <a href="mailto:guillaum.bouchard@gmail.com">Envoyer un mail</a>
+	</p>
+      </div>
+
+      <div id="two" class="ui-content">
+	<h1>Brevet B/BPA</h1>
+	<div id="questions_c" class="questions" data-file="questions.txt"></div>
+      </div>
+
+      <div id="three" class="ui-content">
+	<h1>Brevet C</h1>
+	<div id="questions_bpa" class="questions" data-file="questions_c.rst"></div>
+      </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

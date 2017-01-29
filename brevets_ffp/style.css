@@ -1,0 +1,19 @@
+.ui-radio-on.incorrect
+{
+    color: red;
+}
+
+.ui-radio-on.incorrect:hover
+{
+    color: red;
+}
+
+.ui-radio-on.correct
+{
+    color: green;
+}
+
+.ui-radio-on.correct:hover
+{
+    color: green;
+}

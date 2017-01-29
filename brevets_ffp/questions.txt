@@ -1,0 +1,694 @@
+On appelle bord d'attaque.
+
+	* Le bord avant de l’aile.
+	- Le bord arrière de l’aile.
+
+On appelle bord de fuite.
+
+	- Le bord avant de l’aile.
+	* Le bord arrière de l’aile.
+
+On appelle intrados.
+
+	- La surface supérieure de l’aile.
+	* La surface inférieure de l’aile.
+	- La cloison inter caissons.
+
+On appelle extrados.
+
+	* La surface supérieure de l’aile.
+	- La surface inférieure de l’aile.
+	- Le panneau stabilisateur.
+
+Autour de l’aile, il y a.
+
+	- Une dépression sous l’intrados.
+	* Une dépression sur l’extrados.
+	- Une surpression sur l’extrados.
+
+Sur une aile souple.
+
+	- Les suspentes sont toutes de la même longueur.
+	* Les suspentes avant sont plus courtes que les suspentes arrière.
+	- Les suspentes arrière sont plus courtes que les suspentes avant.
+
+Qu'appelle-t-on vitesse sur trajectoire d’une aile ?
+
+	- La vitesse horizontale.
+	- La vitesse verticale.
+	* La vitesse qui a pour composantes la vitesse horizontale et la vitesse verticale.
+
+La vitesse propre d'une aile, dans la masse d'air est.
+
+	- Plus grande vent arrière que vent de face.
+	- Plus grande vent de face que vent arrière.
+	* Indépendante du vent.
+
+La vitesse sol d'une aile est.
+
+	* Plus grande vent arrière que vent de face.
+	- Plus grande vent de face que vent arrière.
+	- Indépendante du vent.
+
+On appelle finesse air.
+
+	- Le rapport vitesse verticale / vitesse horizontale.
+	* Le rapport vitesse horizontale / vitesse verticale.
+	- Le rapport vitesse sur trajectoire / vitesse verticale.
+
+La finesse air est égale (dans la masse d'air).
+
+	- Au rapport perte de hauteur/ distance parcourue.
+	* Au rapport distance parcourue / perte de hauteur.
+
+La finesse sol est égale à.
+
+	- Vitesse horizontale dans la masse d'air / vitesse verticale dans la masse d'air.
+	- Vitesse sur trajectoire dans la masse d'air/vitesse verticale dans la masse d'air.
+	- Vitesse sur trajectoire par rapport au sol / vitesse verticale par rapport au sol.
+	* Vitesse horizontale par rapport au sol / vitesse verticale par rapport au sol.
+
+En vol avec une aile.
+
+	* Il faut toujours garder les commandes en main.
+	- Il faut relâcher les commandes pour éviter de se fatiguer.
+
+Pour faire un virage.
+
+	* Je m’assure que la trajectoire est libre, que la hauteur est suffisante et je tire sur une commande.
+	- Je tire d’abord sur la commande.
+	- Je tire sur les deux commandes à la fois.
+
+Plus je fais un mouvement brusque et ample pour tourner.
+
+	* Plus l’inclinaison de la voile augmente.
+	- Moins l’inclinaison de voile augmente.
+	- L’inclinaison de la voile est indépendante de la manœuvre de mise en virage.
+
+Plus la vitesse initiale est élevée avant le virage.
+
+	* Plus le rayon de virage augmente.
+	- Moins le rayon de virage augmente.
+	- Le rayon de virage est indépendant de la vitesse initiale.
+
+Plus la voile s’incline en virage.
+
+	* Plus la vitesse verticale augmente.
+	- Plus la vitesse verticale diminue.
+	- La vitesse verticale est indépendante de l’inclinaison de la voile.
+
+Pour faire un virage "à plat”.
+
+	- Il faut manœuvrer très rapidement.
+	* Il faut manœuvrer doucement avec peu d’amplitude.
+
+Quand une aile décroche.
+
+	- La vitesse verticale ne change pas.
+	- La vitesse verticale augmente progressivement.
+	* La vitesse verticale augmente brusquement.
+
+En décrochage.
+
+	- Il est toujours possible de contrôler la voile avec les commandes de manœuvre.
+	* L’aile n’est plus pilotable normalement.
+
+Un décrochage.
+
+	- Ne présente aucun danger.
+	* Présente un risque d’accrochage de l’extracteur dans le bord d’attaque si on relâche les commandes brusquement.
+
+Un décrochage près du sol.
+
+	- Ne présente aucun danger.
+	* Présente un risque d’atterrissage violent.
+
+Le point de décrochage.
+
+	- Ne dépend que des caractéristiques de l’aile.
+	* Dépend des caractéristiques de l’aile et du réglage des commandes de manœuvre.
+
+Le point de décrochage.
+
+	- Est toujours au même niveau.
+	* Peut varier en fonction des conditions aérologiques et des manœuvres effectuées.
+
+Le décrochage survient.
+
+	- Uniquement quand on freine au-delà du point de décrochage.
+	* Éventuellement avant le point de décrochage dans une zone de turbulences.
+
+En cas de décrochage.
+
+	- Il faut relâcher le plus vite possible les commandes de manœuvre.
+	* Il faut relâcher progressivement les commandes de manœuvre.
+	- Il faut maintenir la voilure en freins.
+
+Si on relâche les commandes brusquement.
+
+	* La voile subit un balancement vers l’avant, une accélération et un enfoncement.
+	- La voile reprend progressivement sa trajectoire initiale de vol.
+	- Relâcher les commandes brusquement ne présente aucun danger.
+
+En cas de décrochage près du sol.
+
+	- Il faut relâcher le plus vite possible les commandes de manœuvre.
+	- Il faut maintenir les commandes enfoncées.
+	* Il faut relâcher un tout petit peu les commandes de manœuvre, très doucement.
+
+Si l’on tire sur les élévateurs avant.
+
+	- La vitesse et la finesse air augmentent.
+	- La vitesse et la finesse air diminuent.
+	* La vitesse augmente et la finesse air diminue.
+	- La vitesse diminue et la finesse air augmente.
+
+Si l’on tire modérément sur les élévateurs arrière.
+
+	- La vitesse et la finesse air augmentent.
+	- La vitesse et la finesse air diminuent.
+	- La vitesse augmente et la finesse air diminue.
+	* La vitesse diminue et la finesse air augmente.
+
+Tirer sur les élévateurs avant peut être utile.
+
+	- Pour revenir sur le terrain par vent nul ou vent arrière, si l’on est loin.
+	* Pour contrer un fort vent de face.
+	- En aucune circonstance.
+
+Tirer modérément sur les élévateurs arrière peut être utile.
+
+	* Pour revenir sur le terrain par vent nul ou vent arrière, si l’on est loin.
+	- Pour contrer un fort vent de face.
+	- En aucune circonstance.
+
+Une traction modérée sur un élévateur arrière provoque.
+
+	* Un virage lent à grand rayon et faible enfoncement.
+	- Un virage rapide à grand rayon et faible enfoncement.
+	- Un virage lent à petit rayon et enfoncement important.
+	- Un virage rapide à petit rayon et enfoncement important.
+
+Une traction sur un élévateur avant provoque.
+
+	- Un virage lent à grand rayon et faible enfoncement.
+	- Un virage rapide à grand rayon et faible enfoncement.
+	- Un virage lent à petit rayon et enfoncement important.
+	* Un virage rapide à petit rayon et enfoncement important.
+
+Pour piloter avec les élévateurs.
+
+	- L’effort à fournir est plus faible que pour piloter avec les commandes.
+	* Il est plus fort.
+	- Il est le même.
+
+Quand on pilote avec les élévateurs.
+
+	- Le point de décrochage est au même niveau que lorsqu’on pilote avec les commandes.
+	* Il est plus haut.
+	- Il est plus bas.
+
+Si l’on agit brusquement sur les commandes.
+
+	- On augmente les performances de la voilure.
+	* On crée des phénomènes pendulaires.
+
+Quand on est en frein, si l’on relâche les commandes d'un seul coup.
+
+	- La voilure retrouve tout de suite sa trajectoire initiale.
+	* Elle retrouve sa trajectoire initiale après avoir subi un enfoncement et un effet pendulaire.
+
+Par vent fort, à proximité d'un bâtiment.
+
+	- Il faut se poser face au vent, même si cela oblige à se rapprocher du bâtiment.
+	- En se posant face au bâtiment suffisamment près, on est à l’abri du vent.
+	* Il ne faut surtout pas se poser face au bâtiment.
+
+Dans une zone de turbulences.
+
+	* Le décrochage peut survenir plus tôt qu’en air calme.
+	- Il est forcément au même endroit qu’en air calme.
+
+On appelle charge alaire.
+
+	- La résistance du tissu de voile.
+	* Le rapport masse du parachutiste équipé / surface de voile.
+	- Le rapport surface de voile / masse du parachutiste équipé.
+
+Une aile vole à vitesse maximale.
+
+	* Quand le pilote est bras hauts.
+	- Quand il tire légèrement sur les commandes de manœuvre.
+
+Une aile vole à finesse maximale.
+
+	- Quand le pilote est bras hauts.
+	* Quand le pilote tire légèrement sur les commandes de manœuvre.
+
+On appelle dérive.
+
+	* Le produit (temps de chute + temps de descente parachute ouvert) x vitesse du vent.
+	- La vitesse du vent.
+	- Le temps de chute + le temps de descente parachute ouvert.
+
+À l’ouverture par vent fort, en étant largué normalement.
+
+	- Il faut s’orienter face au terrain dès que possible.
+	* Il faut s’orienter face au vent dès que possible.
+	- L’orientation n’a pas d’importance.
+
+À l'ouverture par vent faible, en étant largué normalement.
+
+	* Il faut s’orienter face au terrain dès que possible.
+	- Il faut s’orienter face au vent dès que possible.
+	- L’orientation n’a pas d’importance.
+
+Par vent fort, si l’on ouvre haut.
+
+	* Le risque d’être déporté en dehors du terrain augmente.
+	- Le risque d’être déporté en dehors du terrain diminue.
+
+Par vent faible ou nul, si l’on ouvre haut.
+
+	* On peut plus facilement rattraper un mauvais largage et rentrer si l’on est ouvert loin du terrain.
+	- On peut moins facilement rattraper un mauvais largage et rentrer si l’on est ouvert loin du terrain.
+
+Parachute ouvert, il faut choisir la zone d'évolution.
+
+	- En ne tenant compte que du vent.
+	* En tenant compte du vent, des zones survolées et des zones de trafic aérien.
+
+Parachute ouvert.
+
+	- Ceux qui ont ouvert le plus haut doivent descendre le plus vite possible pour rattraper les autres.
+	* Ils doivent essayer de ne pas descendre trop vite pour ne pas rattraper les autres.
+	- Ils n’ont pas à s’occuper des autres.
+
+Parachute ouvert.
+
+	* Il faut éviter de suivre des trajectoires convergentes avec une autre voilure.
+	- C’est possible si l’on passe juste derrière l’autre voilure.
+
+Si deux parachutistes volent en direction l'un de l’autre, face à face.
+
+	- L’un des deux doit dégager sur sa gauche et l’autre sur sa droite.
+	- Les deux doivent dégager sur leur gauche.
+	* Les deux doivent dégager sur leur droite.
+
+Si deux parachutistes volent en direction l'un de l’autre, face à face.
+
+	- Leur vitesse de rapprochement est égale à celle de la plus rapide des deux voilures.
+	- Elle est égale à celle de la plus lente des deux voilures.
+	* Elle est égale à la somme des vitesses des deux voilures.
+
+Si un parachutiste évolue devant vous et un peu au-dessus.
+
+	- Vous avez la priorité parce que vous êtes le plus bas.
+	* Il a la priorité parce qu’il ne vous voit pas.
+
+Si un parachutiste se trouve au-dessus d’un obstacle en bordure de la zone de poser, un peu au-dessus de vous.
+
+	* Il a la priorité et vous devez lui laisser la place pour rentrer vers la zone de poser.
+	- Vous avez la priorité car vous êtes en dessous.
+
+Un élève débutant et un parachutiste confirmé se présentent en même temps dans le circuit d’atterrissage.
+
+	* C’est le moins expérimenté qui a la priorité.
+	- C’est le plus expérimenté qui a la priorité.
+
+À l'atterrissage.
+
+	- Il faut obligatoirement se poser face au vent quelles que soient les circonstances.
+	* Il est possible de se poser avec un léger vent de travers.
+	- Il vaut mieux se poser vent arrière que vent de travers.
+
+À l'atterrissage, il faut essayer en priorité.
+
+	- De se poser au centre de la zone prévue.
+	- De se poser en premier.
+	- De se poser le plus près possible des autres.
+	* De se poser avec une trajectoire dégagée en gardant une distance de sécurité avec les autres voilures.
+
+Lors d’un saut de groupe, il faut se poser.
+
+	* Tous dans le même sens, si possible face au vent.
+	- Face au vent, éventuellement en sens contraire par rapport aux autres.
+
+Si l’on doit se poser en dehors de la zone prévue.
+
+	- Il faut chercher en priorité à se poser face au vent.
+	* Il faut chercher en priorité à se poser sur une zone dégagée dans la grande longueur du terrain.
+	- Il faut se poser au bord de la zone choisie pour ne pas avoir à marcher.
+
+La perte de hauteur en chute libre à plat face sol est de.
+
+	- 50 m/s pendant toute la chute.
+	* 300 m pendant les 10 premières secondes puis 50 m/s.
+
+La vitesse verticale de chute est en moyenne.
+
+	* De 50 m/s, elle peut dépasser 70 m/s en piqué ou tête en bas.
+	- De 50 m/s et ne dépasse jamais 60 m/s.
+
+Quand on chute à plat face au sol, après 15 secondes de chute, on a perdu.
+
+	- 400 m de hauteur.
+	* 550 m de hauteur.
+	- 700 m de hauteur.
+
+Le vent en altitude et le vent au sol.
+
+	- Soufflent toujours dans le même sens.
+	* Peuvent souffler en sens contraire.
+
+Le vent en altitude est dû.
+
+	* Aux anticyclones et aux dépressions.
+	- Surtout à l’influence du sol et du relief.
+
+Le vent au sol est dû.
+
+	- Uniquement aux anticyclones et aux dépressions.
+	- Uniquement à la nature du sol et au relief.
+	* À la situation générale et à l’influence du sol et du relief.
+
+Pour déterminer le point de largage, il faut observer.
+
+	* Le vent au sol et le vent en altitude.
+	- Surtout le vent au sol.
+	- Uniquement le vent en altitude.
+
+Les paramètres météo à prendre en compte pour une séance de sauts sont.
+
+	- Uniquement le vent au sol.
+	- Uniquement le vent et le risque orageux.
+	- Le vent, le risque orageux et le plafond.
+	* Le vent, le plafond, la visibilité, les turbulences et le risque orageux.
+
+Par vent fort, il faut larguer.
+
+	* Au vent du terrain, d’autant plus loin que le vent est fort.
+	- Au vent du terrain, d’autant moins loin que le vent est fort.
+	- Sous le vent du terrain, d’autant plus loin que le vent est fort.
+	- Sous le vent du terrain, d’autant moins loin que le vent est fort.
+
+Par vent nul, il faut larguer.
+
+	- Loin de la verticale du terrain.
+	* À la verticale du terrain.
+
+Si on largue vent arrière avec plusieurs départs au même passage, il faut.
+
+	- Larguer au même endroit que vent de face.
+	- Espacer un peu moins les départs pour compenser la vitesse sol de l’avion.
+	* Anticiper le départ des premiers et espacer les départs au moins autant que vent de face.
+
+Par vent fort en larguant face au vent, il faut.
+
+	- Espacer un peu moins les départs que par vent faible.
+	* Espacer davantage les départs que par vent faible.
+	- On ne tient jamais compte du vent pour déterminer l’espacement des départs.
+
+Quand on largue avec un avion de type Pilatus ou Cessna par vent faible, il faut.
+
+	- Espacer les départs au maximum de 5 secondes.
+	* Espacer les départs d’au moins 7 secondes.
+	- Systématiquement attendre plus de 10 secondes entre chaque départ.
+
+Quand on constate, sur axe de largage, que l'avion vole doucement par rapport au sol.
+
+	- Cela ne signifie rien de particulier.
+	- On vole face à un vent fort, il n’y a pas de précautions particulières à prendre.
+	* On vole face à un vent fort, il faut partir loin et espacer davantage les départs.
+
+Quand on constate, sur axe le largage, que l'avion vole très vite par rapport au sol.
+
+	- Cela ne signifie rien de particulier.
+	- On a un fort vent arrière, il n’y a pas de précautions particulières à prendre.
+	* On a un fort vent arrière, il faut anticiper le départ des premiers ou changer l’axe de largage de 180°.
+
+Ceux qui ouvrent le plus bas.
+
+	* Partent généralement en premier de l’avion.
+	- Partent généralement en dernier de l’avion.
+	- La hauteur d’ouverture n’a pas d’importance pour l’ordre des départs.
+
+Ceux qui ouvrent le plus haut.
+
+	- Partent généralement en premier de l’avion.
+	* Partent généralement en dernier de l’avion.
+	- La hauteur d’ouverture n’a pas d’importance pour l’ordre des départs.
+
+Sur un même passage, les grands groupes partent généralement.
+
+	* En premier.
+	- En dernier.
+	- C’est sans importance.
+
+Si au moment du largage, on constate qu’il y a des voiles ouvertes en-dessous de l’axe et assez haut.
+
+	- Chacun assure sa sécurité une fois en chute.
+	* On refait un passage ou on décale suffisamment l’axe de largage.
+
+Quand on largue, si l'avion est en montée.
+
+	- On a tendance à larguer trop long (trop loin).
+	* On a tendance à larguer trop court (trop tôt).
+	- Le fait que l’avion monte n'influence pas la visualisation du point de largage.
+
+Quand on largue, si l'avion est en descente.
+
+	* On a tendance à larguer trop long (trop loin).
+	- On a tendance à larguer trop court (trop tôt).
+	- Le fait que l’avion descende n'influence pas la visualisation du point de largage.
+
+Quand on large, si l'avion est incliné à droite.
+
+	* On a tendance à larguer trop long (trop loin).
+	- On a tendance à larguer trop court (trop tôt).
+	- Le fait que l'avion soit incliné n’influence pas la visualisation du point de largage.
+
+Avec un avion gros porteur, comparativement à un avion de type Pilatus ou Cessna.
+
+	- La vitesse de largage est moins élevée, il faut augmenter l’espacement entre les départs.
+	- La vitesse de largage est moins élevée, il faut diminuer l’espacement entre les départs.
+	- La vitesse de largage est plus élevée, il faut augmenter l’espacement entre les départs.
+	* La vitesse de largage est plus élevée, il faut diminuer l’espacement entre les départs.
+
+Le vent du nord est un vent qui souffle.
+
+	* Du nord vers le sud.
+	- Du sud vers le nord.
+
+Le nœud est une unité de mesure de la vitesse du vent égale à.
+
+	- 0,5 km/h.
+	- 2 m/s.
+	* 1,8 km/h.
+
+Quand on monte en altitude entre le sol et 2000 m, le vent météo.
+
+	* Est dévié sur la droite dans l’hémisphère nord.
+	- Est dévié sur la gauche dans l’hémisphère nord.
+	- Ne subit aucune déviation.
+
+Dans l'hémisphère nord, le vent tourne autour des anticyclones.
+
+	* Dans le sens des aiguilles d’une montre.
+	- Dans le sens inverse des aiguilles d’une montre.
+
+Dans l'hémisphère nord, le vent tourne autour des dépressions.
+
+	- Dans le sens des aiguilles d’une montre.
+	* Dans le sens inverse des aiguilles d’une montre.
+
+En milieu de journée, par temps ensoleillé, les brises de pente et de vallées sont.
+
+	* Montantes.
+	- Descendantes.
+
+La nuit, les brises de pente et de vallées sont.
+
+	- Montantes.
+	* Descendantes.
+
+En milieu de journée, par temps ensoleillé, la brise de mer souffle.
+
+	- De la terre vers la mer.
+	* De la mer vers la terre.
+
+En bord de mer, la nuit, on risque d'avoir.
+
+	- De la brise de mer.
+	* De la brise de terre.
+
+Les brises sont des vents.
+
+	- Bien établis, qui changent lentement.
+	- Qui soufflent dans tous les sens et changent sans cesse de direction.
+	* Bien établis, mais ils changent de direction en peu de temps.
+
+Le risque de rencontrer des courants ascendants est maximum.
+
+	* Au-dessus des surfaces chaudes par temps ensoleillé.
+	- Au-dessus des surfaces froides par temps ensoleillé.
+	- Au-dessus des surfaces chaudes par temps couvert.
+	- Au-dessus des surfaces froides par temps couvert.
+
+On risque de rencontrer des courants ascendants.
+
+	* Au vent d’un relief.
+	- Sous le vent d’un relief.
+
+On risque de rencontrer des courants rabattants et des turbulences.
+
+	- Au vent d’un relief.
+	* Sous le vent d’un relief.
+
+Dans une zone d'étranglement (col, vallée).
+
+	* La vitesse du vent augmente.
+	- La vitesse du vent diminue.
+	- Le relief n’a pas d’influence sur la vitesse du vent.
+
+Par vent fort, les turbulences sont maximales.
+
+	- Au vent des obstacles.
+	* Sous le vent des obstacles.
+
+Par vent fort.
+
+	* On risque de rencontrer des turbulences près du sol.
+	- Il n’y a jamais de turbulences si le vent est laminaire.
+	- Un vent fort n’est jamais laminaire.
+
+Une zone de cisaillement est une zone comprise.
+
+	- Entre deux couches d’air où la température est différente.
+	- Entre deux couches d’air où la pression est différente.
+	* Entre deux couches d’air où le vent n’a pas la même direction.
+
+Voler dans un nuage.
+
+	- Ne présente aucun danger.
+	* Est dangereux.
+
+À l'approche d’un orage.
+
+	- Le vent est stable en vitesse et en direction.
+	* Le vent peut s’inverser d’un seul coup de 180°.
+	- S’il y a une accalmie de vent, c’est que le risque d’orage a disparu.
+
+À l'approche d’un orage.
+
+	- On peut sauter tant qu’il ne pleut pas.
+	- On peut sauter tant que le vent ne dépasse pas la limite réglementaire.
+	* Il faut arrêter immédiatement les largages s’il y a des éclairs ou du tonnerre.
+
+Le risque d’orage est maximum.
+
+	- En hiver.
+	* Au printemps et en été.
+
+En saison chaude, le risque d’orage est maximum.
+
+	- La nuit.
+	- Le matin.
+	* L’après-midi.
+
+En atmosphère standard.
+
+	- La température est de 15°C au sol.
+	* La température est de 15°C au niveau de la mer.
+	- La température est de 20°C au niveau de la mer.
+
+En atmosphère standard.
+
+	- La pression est de 1013 hPa au sol.
+	* La pression est de 1013 hPa au niveau de la mer.
+
+La distance verticale entre un point et le sol est.
+
+	* La hauteur.
+	- L’altitude.
+	- Un niveau de vol.
+
+La distance verticale entre un point et le niveau de la mer est.
+
+	- La hauteur.
+	* L’altitude.
+	- Un niveau de vol.
+
+Pour sauter sur une zone plus haute de 200 m que le terrain de décollage, avant d’embarquer.
+
+	- Il faut afficher + 200 m sur l’altimètre.
+	- Il faut afficher 0 sur l’altimètre.
+	* Il faut afficher - 200 m sur l’altimètre.
+
+Pour sauter sur une zone moins haute de 200 m que le terrain de décollage, avant d’embarquer.
+
+	* Il faut afficher + 200 m sur l’altimètre.
+	- Il faut afficher 0 sur l’altimètre.
+	- Il faut afficher - 200 m sur l’altimètre.
+
+L’altimètre indique 0 le soir. Le lendemain, il indique - 100 m.
+
+	- La pression a baissé.
+	* La pression a augmenté.
+	- On ne peut rien déduire quant à la pression.
+
+L’altimètre indique 0 le soir. Le lendemain, il indique + 100 m.
+
+	* La pression a baissé.
+	- La pression a augmenté.
+	- On ne peut rien déduire quant à la pression.
+
+Les limites de vent pour l'organisation des séances de sauts sont de.
+
+	- 5 m/s en école et 12 m/s pour les confirmés.
+	- 9 m/s en école et 11 m/s pour les confirmés.
+	* 7 m/s en école et 11 m/s pour les confirmés.
+
+Pour sauter en parachute, l’assurance en responsabilité civile.
+
+	* Est obligatoire.
+	- Est facultative.
+	- Est obligatoire uniquement pour les moniteurs.
+
+L'assurance individuelle.
+
+	- Couvre les dommages causés aux tiers.
+	* Couvre les dommages causés à l’assuré.
+
+Quel que soit son pays d’origine, un parachutiste doit toujours pouvoir présenter.
+
+	- L'assurance uniquement.
+	- Le carnet de sauts uniquement.
+	* L'assurance, le carnet de sauts et le livret du parachute.
+
+La durée maximum de pliage des parachutes de secours est de.
+
+	- 3 mois.
+	- 6 mois.
+	* 1 an.
+
+Un parachute de secours peut être plié.
+
+	- Par tout le monde.
+	* Uniquement par une personne qualifiée.
+
+Pour sauter en parachute.
+
+	* Un certificat médical de non-contre-indication est obligatoire.
+	- Le certificat médical n’est pas obligatoire.
+
+Un pratiquant.
+
+	* Doit pouvoir présenter ses brevets et qualifications.
+	- Le nombre de sauts suffit à justifier de son niveau technique.
+
+Le carnet de sauts.
+
+	* Doit être tenu à jour et signé régulièrement.
+	- Doit être tenu à jour mais il n’est pas nécessaire qu’il soit signé.
+	- Doit être signé une fois par an seulement.
